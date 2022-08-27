@@ -1,2 +1,6 @@
 Hi i am repo
 Hi i am tepo
+
+deb http://kali.cs.nctu.edu.tw/kali kali-rolling main non-free contrib
+#deb http://http.kali.org/kali kali-rolling main contrib non-free
+#deb-src http://http.kali.org/kali kali-rolling main contrib non-free
